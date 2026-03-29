@@ -1,0 +1,55 @@
+# Visual Studio cache
+.vs/
+
+# Build output
+x64/
+Debug/
+Release/
+out/
+build/
+
+# Compiled Object files
+*.obj
+*.o
+*.slo
+*.lo
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.pdb
+*.ilk
+*.idb
+
+# Visual Studio generated files
+*.log
+*.tlog
+*.recipe
+*.vsidx
+*.suo
+*.VC.db
+*.Browse.VC.db
+*.FileListAbsolute.txt
+*.CppClean.log
+
+# Visual Studio user-specific settings
+*.vcxproj.user
+
+# CMake build output (keep CMakeLists.txt and custom .cmake modules)
+build/
+out/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Claude local settings
+.claude/
