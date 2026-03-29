@@ -40,7 +40,10 @@ build/
 *.FileListAbsolute.txt
 *.CppClean.log
 
-# Visual Studio user-specific settings
+# Visual Studio project files
+*.sln
+*.vcxproj
+*.vcxproj.filters
 *.vcxproj.user
 
 # CMake build output (keep CMakeLists.txt and custom .cmake modules)
